@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="66141b43-f8bd-45d0-bfd1-a475a11e006e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/.idea/libraries/jna.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../ClientDemo-NetBeansPro/MyDemo1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/AltCallingConvention.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Callback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/CallbackParameterContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/CallbackProxy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/CallbackReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/CallbackResultContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/DefaultTypeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/FromNativeContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/FromNativeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/FunctionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/FunctionParameterContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/FunctionResultContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/IntegerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/InvocationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/MethodParameterContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/MethodResultContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Native.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/NativeLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/NativeLong.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/NativeMapped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/NativeMappedConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/NativeString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Pointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/PointerType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Structure.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/StructureReadContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/StructureWriteContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ToNativeContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ToNativeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/TypeConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/TypeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/Union.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/WString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/AlphaMaskDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/AlphaMaskDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/BalloonManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/BalloonManagerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/CLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/FileMonitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/KeyboardUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/RasterRangesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/ShapedWindowDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/WindowUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/X11AlphaMaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/dnd/DragHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/dnd/DropHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/dnd/DropTargetPainter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/dnd/GhostedDragImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/dnd/GhostedDragImageDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/unix/X11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/GDI32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/Kernel32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/Shell32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/User32.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/W32API.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/examples/win32/W32Errors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/ByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/ByteByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/DoubleByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/FloatByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/IntByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/LongByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/NativeLongByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/PointerByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/ShortByReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/win32/StdCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/win32/StdCallFunctionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/win32/StdCallLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/win32/W32APIFunctionMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sun/jna/win32/W32APITypeMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/AudioRender.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCCore.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDK.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/AnalyzeData.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/AudioIntercom.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCAlarm.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCAlarm.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCCoreDevCfg.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCDisplay.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCGeneralCfgMgr.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCGeneralCfgMgr.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCIndustry.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCPlayBack.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCPreview.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCPreview.lib" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/HCVoiceTalk.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/OpenAL32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/StreamTransClient.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/SystemTransform.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/HCNetSDKCom/libiconv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/PlayCtrl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/HCNetSDK_x64/SuperRender.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/jna/examples.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/library/jna/jna.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/sdk/HCNet/HCNetAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/sdk/HCNet/HCNetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/sdk/HCNet/HCNetRecorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/util/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/util/RangeUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/routes/feature/environment/pages/history.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/routes/feature/environment/pages/history.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../client/src/app/routes/feature/environment/pages/real-time.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../client/src/app/routes/feature/environment/pages/real-time.component.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/MainVerticle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/MainVerticle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/db/DB.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/db/DB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/network/NetworkModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/network/NetworkModule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/network/listener/VideoListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/CURD.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/CURD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/DeviceController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/middleware/DeviceController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/LocationMonitors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/middleware/LocationMonitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Middleware.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/middleware/RequestInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Monitors.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Monitors.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/ResponseDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/middleware/ResponseDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Session.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Settings.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/Settings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/System.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/routes/System.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/util/TimeUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../server/src/main/java/com/jialuohua/util/TimeUtils.java" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="1029460259">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="2" />
+          <entry key="xml" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="2" />
+          <entry key="XML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="24" />
+          <entry key="txt" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="24" />
+          <entry key="PLAIN_TEXT" value="10" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/ByReference.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>1.5</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\device_control_2\code\library\jna</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="jna" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="width" value="977" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="jna" type="462c0819:PsiDirectoryNode" />
+              <item name="darwin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="jna" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\device_control_2\code\library\jna\src\main\resources\com.sun.jna" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\device_control_2\code\library\jna\src\main\resources" />
+      <recent name="D:\device_control_2\code\library\jna\src\main\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66141b43-f8bd-45d0-bfd1-a475a11e006e" name="Default Changelist" comment="" />
+      <created>1547217841303</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547217841303</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="Learn" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30563003" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.32947975" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32947975" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="RestServices" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven Projects" visible="true" weight="0.3297587" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="96" column="14" lean-forward="true" selection-start-line="96" selection-start-column="14" selection-end-line="96" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/target/classes/Main.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#206#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/sun/jna/ptr/ByReference.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="22" column="51" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>jna</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="clean install" />
+  </component>
+</project>
